@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jdom-2.0.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jdom-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-lib-2.4-jdk15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImageModificationName:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImageModificationName_jar</output-path>
+    <root id="archive" name="ImageModificationName.jar">
+      <element id="module-output" name="ImageModificationName" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jdom-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/json-lib-2.4-jdk15.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
