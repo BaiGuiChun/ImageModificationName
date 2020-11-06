@@ -1,3 +1,3 @@
 ＃ImageModificationName
 修改图片名称：
-![config文件](https://img-blog.csdnimg.cn/20201106083314520.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5Mjg4OTYx,size_16,color_FFFFFF,t_70#pic_center)
+![config文件](https://github.com/BaiGuiChun/ImageModificationName/blob/master/iShot2020-11-06%E4%B8%8A%E5%8D%8808.32.34.png)
